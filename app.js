@@ -36,7 +36,7 @@ function verificarChute() {
     let chute = document.querySelector('input').value;
     tentativas++;
     if (chute == numeroSecreto) {
-        let textoTentativa = tentativas > 1 ? 'tentativa' : 'tentativas';
+        let textoTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
         let mensagemTentativa = `Você descobriu o número ${numeroSecreto} em ${tentativas} ${textoTentativa}!`
         exibirTexto('h1', 'Parabéns!');
         exibirTexto('p', mensagemTentativa);
