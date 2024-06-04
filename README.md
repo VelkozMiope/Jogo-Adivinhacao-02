@@ -3,4 +3,4 @@
 
 Como uma melhoria do projeto anterior, o objetivo do jogo continua sendo o mesmo, gerar um número aleatório, onde o usuário precisa descobrir o número, com o programa dizendo se o número é maior ou menor, e retornando uma mensagem ao usuário acertar o número.
 
-Este projeto introduziu conceitos como funções, manipulamento de elementos na tela via Javascript, listas e como utilizar o Github para salvar o projeto e o Vercel para torna-lo disponivel online.
+Este projeto introduziu conceitos como funções, manipulação de elementos na tela via Javascript, listas e como utilizar o Github para salvar o projeto e o Vercel para torna-lo disponivel online.
